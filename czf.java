@@ -3,5 +3,6 @@ class czf {
         System.out.println("this is test");
         //this is test
         //this is test
+        System.out.println("hello world");
     }
 }
